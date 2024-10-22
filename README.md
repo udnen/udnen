@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Student
+Might actually upload stuff later, idk...
 <!--
 **udnen/udnen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
